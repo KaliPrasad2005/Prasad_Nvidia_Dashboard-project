@@ -9,6 +9,7 @@ An interactive Power BI dashboard designed to analyze and compare the financial 
 This dashboard analyzes stock prices, revenue, net income, trading volume, and profit margins of NVIDIA, AMD, and Intel over multiple years. It enables users to compare company performance and identify financial trends using interactive visualizations.
 
 3.Tech Stack used
+
 The dashboard was built using the following tools and technologies:
 - **Power BI Desktop** – Data visualization and report development  
 - **Power Query** – Data cleaning and transformation  
