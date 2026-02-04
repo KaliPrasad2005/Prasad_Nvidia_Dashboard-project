@@ -19,7 +19,7 @@ The dashboard was built using the following tools and technologies:
 
 The dataset contains historical financial and stock market data for NVIDIA, AMD, and Intel. It includes attributes such as revenue, net income, net margin, stock closing prices, and trading volume across multiple years, quarters, months, and days.
 
-6. Key Dashboard Features
+5. Key Dashboard Features
 - KPI cards showing total revenue, net income, and gross margin  
 - Year-wise revenue growth analysis for NVIDIA  
 - Net margin analysis over time  
