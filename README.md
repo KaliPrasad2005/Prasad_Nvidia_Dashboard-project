@@ -4,7 +4,8 @@
 
 An interactive Power BI dashboard designed to analyze and compare the financial performance of major semiconductor companies including NVIDIA, AMD, and Intel.
 
-2.This dashboard analyzes stock prices, revenue, net income, trading volume, and profit margins of NVIDIA, AMD, and Intel over multiple years. It enables users to compare company performance and identify financial trends using interactive visualizations.
+2.Description about the Dashboard 
+This dashboard analyzes stock prices, revenue, net income, trading volume, and profit margins of NVIDIA, AMD, and Intel over multiple years. It enables users to compare company performance and identify financial trends using interactive visualizations.
 
 3.Tech Stack used
 The dashboard was built using the following tools and technologies:
